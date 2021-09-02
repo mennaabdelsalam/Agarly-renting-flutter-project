@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098694908749",
+    "project_id": "agarly-ea90b",
+    "storage_bucket": "agarly-ea90b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098694908749:android:b276116062715f3800b504",
+        "android_client_info": {
+          "package_name": "com.example.test_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098694908749-lgl35fr0nmmmgug5un627h629nac6vv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLCHbOHk3JyFuEixvXZyAQDPC4hOpEPpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098694908749-lgl35fr0nmmmgug5un627h629nac6vv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
